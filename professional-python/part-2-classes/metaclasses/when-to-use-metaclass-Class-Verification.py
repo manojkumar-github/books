@@ -43,7 +43,7 @@ Solution:
 
 class FooorBar2(type):
     def __new__(cls, name, bases, attrs):
-        answer = super(FooorBar, cls).__new__(cls, name, bases attrs)
+        answer = super(FooorBar, cls).__new__(cls, name, bases, attrs)
         if hasattr(answer, 'foo') and hasattr(answer, 'bar'):
             raise TypeError('Class %s cannot contain both "foo" and "bar" attributes' % name)
         if not hasattr(answer, 'foo') and not hasattr(answer, 'bar'):
