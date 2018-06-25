@@ -22,4 +22,4 @@ manner, without plowing over the Field.
 
 So, what exactly metaclass did is take the class declaration, reorganize the structure of the attributes of the class, and then
 create the class with the new structure
-""" 
+"""
