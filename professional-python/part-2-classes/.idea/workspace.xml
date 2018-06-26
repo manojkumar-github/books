@@ -16,41 +16,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="type-conversion.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/magic-methods/type-conversion.py">
+      <file leaf-file-name="properties.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../../python-tricks/properties.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="846">
-              <caret line="47" column="0" lean-forward="false" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="comparisions-binaryequality.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/magic-methods/comparisions-binaryequality.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="828">
-              <caret line="46" column="0" lean-forward="false" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="comparisions-relative.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/magic-methods/comparisions-relative.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="13" column="20" lean-forward="false" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="comparisions-operator-overloading.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/magic-methods/comparisions-operator-overloading.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1458">
-              <caret line="81" column="25" lean-forward="false" selection-start-line="81" selection-start-column="25" selection-end-line="81" selection-end-column="25" />
+            <state relative-caret-position="625">
+              <caret line="160" column="6" lean-forward="false" selection-start-line="160" selection-start-column="6" selection-end-line="160" selection-end-column="6" />
               <folding />
             </state>
           </provider>
@@ -60,7 +30,7 @@
         <entry file="file://$PROJECT_DIR$/magic-methods/overloading-common-methods.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1872">
-              <caret line="104" column="54" lean-forward="true" selection-start-line="104" selection-start-column="54" selection-end-line="104" selection-end-column="54" />
+              <caret line="104" column="54" lean-forward="false" selection-start-line="104" selection-start-column="54" selection-end-line="104" selection-end-column="54" />
               <folding />
             </state>
           </provider>
@@ -70,7 +40,7 @@
         <entry file="file://$PROJECT_DIR$/magic-methods/collections.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="569">
-              <caret line="51" column="0" lean-forward="true" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
+              <caret line="51" column="0" lean-forward="false" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -79,19 +49,71 @@
       <file leaf-file-name="understanding-a-class-function.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/class-factories/understanding-a-class-function.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="427">
-              <caret line="59" column="17" lean-forward="true" selection-start-line="59" selection-start-column="17" selection-end-line="59" selection-end-column="17" />
+            <state relative-caret-position="445">
+              <caret line="59" column="17" lean-forward="false" selection-start-line="59" selection-start-column="17" selection-end-line="59" selection-end-column="17" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="when-class-factories-used-RuntimeAttributes.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="when-class-factories-used-RuntimeAttributes.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/class-factories/when-class-factories-used-RuntimeAttributes.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="426">
-              <caret line="45" column="0" lean-forward="true" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
+            <state relative-caret-position="427">
+              <caret line="45" column="0" lean-forward="false" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="when-class-factories-flashingout-credential-class.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/class-factories/when-class-factories-flashingout-credential-class.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="121">
+              <caret line="11" column="43" lean-forward="true" selection-start-line="11" selection-start-column="43" selection-end-line="11" selection-end-column="43" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="declaring-a-virtual-subclass.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/abstract-base-classes/declaring-a-virtual-subclass.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="485">
+              <caret line="55" column="48" lean-forward="false" selection-start-line="55" selection-start-column="48" selection-end-line="55" selection-end-column="48" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="the-form-example.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/class-factories/the-form-example.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="445">
+              <caret line="39" column="59" lean-forward="false" selection-start-line="39" selection-start-column="59" selection-end-line="39" selection-end-column="59" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Class-Attributes-Versus-Instance-Attributes.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/class-factories/Class-Attributes-Versus-Instance-Attributes.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="41" column="0" lean-forward="false" selection-start-line="41" selection-start-column="0" selection-end-line="46" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="answering-the-singleton.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/class-factories/answering-the-singleton.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="517">
+              <caret line="84" column="7" lean-forward="false" selection-start-line="84" selection-start-column="7" selection-end-line="84" selection-end-column="7" />
+              <folding>
+                <element signature="e#1373#1383#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -117,6 +139,13 @@
         <option value="$PROJECT_DIR$/magic-methods/collections.py" />
         <option value="$PROJECT_DIR$/class-factories/understanding-a-class-function.py" />
         <option value="$PROJECT_DIR$/class-factories/when-class-factories-used-RuntimeAttributes.py" />
+        <option value="$PROJECT_DIR$/../../../python-tricks/properties.py" />
+        <option value="$PROJECT_DIR$/class-factories/when-class-factories.py" />
+        <option value="$PROJECT_DIR$/class-factories/when-class-factories-flashingout-credential-class.py" />
+        <option value="$PROJECT_DIR$/class-factories/the-form-example.py" />
+        <option value="$PROJECT_DIR$/class-factories/Class-Attributes-Versus-Instance-Attributes.py" />
+        <option value="$PROJECT_DIR$/class-factories/answering-the-singleton.py" />
+        <option value="$PROJECT_DIR$/abstract-base-classes/declaring-a-virtual-subclass.py" />
       </list>
     </option>
   </component>
@@ -156,6 +185,16 @@
               <item name="part-2-classes" type="b2602c69:ProjectViewProjectNode" />
               <item name="part-2-classes" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="part-2-classes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="part-2-classes" type="462c0819:PsiDirectoryNode" />
+              <item name="abstract-base-classes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="part-2-classes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="part-2-classes" type="462c0819:PsiDirectoryNode" />
+              <item name="class-factories" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -182,59 +221,74 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.understanding-a-class-function">
-    <configuration name="collections" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.declaring-a-virtual-subclass">
+    <configuration name="Class-Attributes-Versus-Instance-Attributes" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/magic-methods" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="SDK_HOME" value="$PROJECT_DIR$/../../../../projects/score-spike/venv-score/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/class-factories" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="part-2-classes" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/magic-methods/collections.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/class-factories/Class-Attributes-Versus-Instance-Attributes.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="comparisions" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="answering-the-singleton" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/magic-methods" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="SDK_HOME" value="$PROJECT_DIR$/../../../../projects/score-spike/venv-score/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/class-factories" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="part-2-classes" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/magic-methods/comparisions-binaryequality.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/class-factories/answering-the-singleton.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="overloading-common-methods" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="declaring-a-virtual-subclass" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/magic-methods" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="SDK_HOME" value="$PROJECT_DIR$/../../../../projects/score-spike/venv-score/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/abstract-base-classes" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="part-2-classes" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/magic-methods/overloading-common-methods.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/abstract-base-classes/declaring-a-virtual-subclass.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="properties" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/../../../../projects/score-spike/venv-score/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../../python-tricks" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="part-2-classes" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../../python-tricks/properties.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -258,18 +312,20 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <list size="4">
-      <item index="0" class="java.lang.String" itemvalue="Python.comparisions" />
-      <item index="1" class="java.lang.String" itemvalue="Python.overloading-common-methods" />
-      <item index="2" class="java.lang.String" itemvalue="Python.collections" />
-      <item index="3" class="java.lang.String" itemvalue="Python.understanding-a-class-function" />
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Python.understanding-a-class-function" />
+      <item index="1" class="java.lang.String" itemvalue="Python.properties" />
+      <item index="2" class="java.lang.String" itemvalue="Python.Class-Attributes-Versus-Instance-Attributes" />
+      <item index="3" class="java.lang.String" itemvalue="Python.answering-the-singleton" />
+      <item index="4" class="java.lang.String" itemvalue="Python.declaring-a-virtual-subclass" />
     </list>
     <recent_temporary>
-      <list size="4">
-        <item index="0" class="java.lang.String" itemvalue="Python.understanding-a-class-function" />
-        <item index="1" class="java.lang.String" itemvalue="Python.collections" />
-        <item index="2" class="java.lang.String" itemvalue="Python.overloading-common-methods" />
-        <item index="3" class="java.lang.String" itemvalue="Python.comparisions" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.declaring-a-virtual-subclass" />
+        <item index="1" class="java.lang.String" itemvalue="Python.answering-the-singleton" />
+        <item index="2" class="java.lang.String" itemvalue="Python.Class-Attributes-Versus-Instance-Attributes" />
+        <item index="3" class="java.lang.String" itemvalue="Python.properties" />
+        <item index="4" class="java.lang.String" itemvalue="Python.understanding-a-class-function" />
       </list>
     </recent_temporary>
   </component>
@@ -291,11 +347,12 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12708333" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12708333" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2952941" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3317647" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -318,7 +375,20 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../../python-tricks/properties.py</url>
+          <line>153</line>
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/abstract-base-classes/declaring-a-virtual-subclass.py</url>
+          <line>26</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="2" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
@@ -405,7 +475,7 @@
     <entry file="file://$PROJECT_DIR$/magic-methods/overloading-common-methods.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1872">
-          <caret line="104" column="54" lean-forward="true" selection-start-line="104" selection-start-column="54" selection-end-line="104" selection-end-column="54" />
+          <caret line="104" column="54" lean-forward="false" selection-start-line="104" selection-start-column="54" selection-end-line="104" selection-end-column="54" />
           <folding />
         </state>
       </provider>
@@ -413,23 +483,7 @@
     <entry file="file://$PROJECT_DIR$/magic-methods/collections.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="569">
-          <caret line="51" column="0" lean-forward="true" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/class-factories/understanding-a-class-function.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="427">
-          <caret line="59" column="17" lean-forward="true" selection-start-line="59" selection-start-column="17" selection-end-line="59" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/class-factories/when-class-factories-used-RuntimeAttributes.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="426">
-          <caret line="45" column="0" lean-forward="true" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
+          <caret line="51" column="0" lean-forward="false" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -438,6 +492,72 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../python-tricks/properties.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="625">
+          <caret line="160" column="6" lean-forward="false" selection-start-line="160" selection-start-column="6" selection-end-line="160" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class-factories/when-class-factories-used-RuntimeAttributes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="427">
+          <caret line="45" column="0" lean-forward="false" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class-factories/the-form-example.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="445">
+          <caret line="39" column="59" lean-forward="false" selection-start-line="39" selection-start-column="59" selection-end-line="39" selection-end-column="59" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class-factories/Class-Attributes-Versus-Instance-Attributes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="41" column="0" lean-forward="false" selection-start-line="41" selection-start-column="0" selection-end-line="46" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class-factories/answering-the-singleton.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="517">
+          <caret line="84" column="7" lean-forward="false" selection-start-line="84" selection-start-column="7" selection-end-line="84" selection-end-column="7" />
+          <folding>
+            <element signature="e#1373#1383#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class-factories/understanding-a-class-function.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="445">
+          <caret line="59" column="17" lean-forward="false" selection-start-line="59" selection-start-column="17" selection-end-line="59" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class-factories/when-class-factories-flashingout-credential-class.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="121">
+          <caret line="11" column="43" lean-forward="true" selection-start-line="11" selection-start-column="43" selection-end-line="11" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/abstract-base-classes/declaring-a-virtual-subclass.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="485">
+          <caret line="55" column="48" lean-forward="false" selection-start-line="55" selection-start-column="48" selection-end-line="55" selection-end-column="48" />
           <folding />
         </state>
       </provider>
